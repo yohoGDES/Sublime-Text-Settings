@@ -1,0 +1,8 @@
+.DS_Store
+*.last-run
+*.cache
+*.system-ca-bundle
+
+# These settings contain tokens which should never be versioned.
+Gist.sublime-settings
+Slack.sublime-settings
