@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "predawn-DEV.sublime-theme"
+}
